@@ -5,4 +5,4 @@ DayZServer_x64.exe ^
 -freezeCheck ^
 -cpuCount=32 ^
 -limitFPS=200 ^
--mods=.\mods\@QF;.\mods\@Unlimited-Stamina;.\mods\@VanillaPlusPlusMap
+-mod=@QF;@Unlimited-Stamina;@VanillaPlusPlusMap
